@@ -1,0 +1,5 @@
+{
+  "name": "Cricket Tournament Hub",
+  "description": "A dynamic dashboard to track cricket teams, players, and match schedules for your local tournament. Features AI-powered insights to generate fun tournament analysis.",
+  "requestFramePermissions": []
+}
